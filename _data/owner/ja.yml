@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "サイト名"
+brand: "Personal Blog Site"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "作者名"
+name: "Rohan Kshetrimayum"
 
 # home page top header texts
 home:
@@ -48,10 +48,10 @@ meta_common_description: "メタディスクリプション"
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
-  #- twitter: ""
+  - github: "Pro64yambung"
+  - email: "rohrazer64@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/rohan-kshetrimayum-439489217/"
+  - twitter: "https://twitter.com/Rohan_Ksh64"
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
